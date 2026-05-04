@@ -1,5 +1,5 @@
 body{
-    background-color: skyblue;
+    background-color: peachpuff;
 }
 h1{
     text-align: center;
@@ -40,12 +40,13 @@ h2{
     grid-template-columns: 1fr 1fr;
 }
 .columna{
-    background-image: url(Barriletes.jpg);
+    background-image: url(pepian.webp);
     background-size: cover;
     margin: 10px;
     margin-left: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna2{
     background-color: rgba(255, 255, 255, 0.5);
@@ -56,6 +57,7 @@ h2{
     margin-right: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna3{
     background-color: rgba(255, 255, 255, 0.5);
@@ -66,22 +68,25 @@ h2{
     margin-left: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna4{
-    background-image: url(semanasanta.webp);
+    background-image: url(kakik.webp);
     background-size: cover;
     margin: 10px;
     margin-right: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna5{
-    background-image: url(conquista.webp);
+    background-image: url(jocon.webp);
     background-size: cover;
     margin: 10px;
     margin-left: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna6{
     background-color: rgba(255, 255, 255, 0.5);
@@ -92,6 +97,7 @@ h2{
     margin-right: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna7{
     background-color: rgba(255, 255, 255, 0.5);
@@ -102,22 +108,25 @@ h2{
     margin-left: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna8{
-    background-image: url(quemadeldiablo.webp);
+    background-image: url(enchiladas.webp);
     background-size: cover;
     margin: 10px;
     margin-right: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna9{
-    background-image: url(convites.jpg);
+    background-image: url(rellenitos.webp);
     background-size: cover;
     margin: 10px;
     margin-left: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
 .columna10{
     background-color: rgba(255, 255, 255, 0.5);
@@ -128,4 +137,5 @@ h2{
     margin-right: 150px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: -3px 3px 5px black;
 }
